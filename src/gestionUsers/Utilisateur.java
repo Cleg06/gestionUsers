@@ -1,17 +1,17 @@
 package gestionUsers;
 
 public class Utilisateur {
-	private String nom;
+	private String nomm;
 	private String prenom;
 	//Construs
 	public Utilisateur() {
 
 	}
-	public String getNom() {
-		return nom;
+	public String getNomm() {
+		return nomm;
 	}
-	public void setNom(String nom) {
-		this.nom = nom;
+	public void setNomm(String nomm) {
+		this.nomm = nomm;
 	}
 	public String getPrenom() {
 		return prenom;
